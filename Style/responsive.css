@@ -75,10 +75,11 @@
     }
     #system2{
         width: 80vw;
+        height: 50vh;
         margin-top: 0.2vh;
     }
     #ok{
-        top: 55vh;
+        top: 32vh;
     }
     #output{
         font-size: 25px;
